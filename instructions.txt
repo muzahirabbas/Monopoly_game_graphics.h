@@ -1,0 +1,16 @@
+The game is made on SFML 2.6 
+library
+The project is portable..
+just run the .exe(debug directory) file or .sln(solution directory) file..
+
+.dll files of MSVCP100 and MSVCR100 are needed to run it 
+if your pc doesn't have these two .dll files, downlaod from
+zip-files.com
+
+code is of total (5799+400)=6200 LINES
+and has a size of approximately 100mb
+
+Syed Muzahir Abbas
+121181
+Nabeel Hussain 
+122937

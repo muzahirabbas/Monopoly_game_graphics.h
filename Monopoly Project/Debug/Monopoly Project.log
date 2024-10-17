@@ -1,0 +1,88 @@
+﻿  code.cpp
+c:\users\intag 123\desktop\monopoly project\include\basic.h(18): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\include\basic.h(19): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\include\basic.h(20): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\include\basic.h(21): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\include\basic.h(56): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\include\basic.h(60): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\include\basic.h(61): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(47): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(49): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(53): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(56): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(57): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(58): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(59): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(60): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(61): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(62): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(63): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(64): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(65): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(66): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(67): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(68): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(69): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(70): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(71): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(72): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(73): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(74): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(75): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(76): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(77): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(78): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(79): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(80): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(81): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(82): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(161): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(167): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(171): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(175): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(182): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(184): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(186): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(188): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(191): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(192): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(193): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(194): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(195): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(196): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(226): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(368): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(930): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(934): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(966): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(1030): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(1107): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(2376): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(2380): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(2412): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(2476): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(2553): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(2934): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(2994): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(3054): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(3113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(3173): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(3220): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(3224): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(3256): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(3320): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(3397): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(4632): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(4636): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(4668): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(4732): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(4809): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(4897): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(4901): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(4933): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(4997): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(5074): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(5698): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(5743): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\intag 123\desktop\monopoly project\monopoly project\code.cpp(489): warning C4715: 'playerC::selectT' : not all control paths return a value
+  Monopoly Project.vcxproj -> C:\Users\intag 123\Desktop\Monopoly Project\Debug\Monopoly Project.exe
